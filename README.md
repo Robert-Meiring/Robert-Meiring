@@ -6,7 +6,7 @@
 ## **<div align="right">Robert Meiring</div>**  
   
 
-- 🖥️ Lead Developer @ Square1 Digital - (https://www.sqr1.co.za)  
+- 🖥️ Lead Developer @ Square1 Digital - (https://www.sqr1.digital)  
   
 
 - 🐦 Flutter / Dart Enthusiast  
